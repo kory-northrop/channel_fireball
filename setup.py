@@ -69,9 +69,9 @@ setup(
     version=VERSION,
     description="""A test project""",
     long_description=README + '\n\n' + CHANGELOG,
-    author='edX',
-    author_email='oscm@edx.org',
-    url='https://github.com/edx/channel_fireball',
+    author='Kory Northrop',
+    author_email='kory@usahello.org',
+    url='https://github.com/kory-northrop/channel_fireball',
     packages=[
         'channel_fireball',
     ],
