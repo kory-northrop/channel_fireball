@@ -1,0 +1,37 @@
+.annotation_safe_list.yml:
+- annotation_data: This model has no PII
+  annotation_token: '.. no_pii:'
+  extra:
+    full_comment: '{''.. no_pii:'': ''This model has no PII''}'
+    object_id: auth.User
+  filename: .annotation_safe_list.yml
+  found_by: safelist
+  line_number: 0
+  report_group_id: 1
+- annotation_data: This model has no PII
+  annotation_token: '.. no_pii:'
+  extra:
+    full_comment: '{''.. no_pii:'': ''This model has no PII''}'
+    object_id: auth.Permission
+  filename: .annotation_safe_list.yml
+  found_by: safelist
+  line_number: 0
+  report_group_id: 2
+- annotation_data: This model has no PII
+  annotation_token: '.. no_pii:'
+  extra:
+    full_comment: '{''.. no_pii:'': ''This model has no PII''}'
+    object_id: contenttypes.ContentType
+  filename: .annotation_safe_list.yml
+  found_by: safelist
+  line_number: 0
+  report_group_id: 3
+- annotation_data: This model has no PII
+  annotation_token: '.. no_pii:'
+  extra:
+    full_comment: '{''.. no_pii:'': ''This model has no PII''}'
+    object_id: auth.Group
+  filename: .annotation_safe_list.yml
+  found_by: safelist
+  line_number: 0
+  report_group_id: 4
